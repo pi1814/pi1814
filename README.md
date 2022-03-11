@@ -1,4 +1,4 @@
-<img align='center' src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" width="400" height="400">
+<img align='center' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="400" height="400">
 <h2> Hey there, I'm Parth Inamdar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>I love to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am currently learning more about Security and development <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
