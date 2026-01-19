@@ -1,4 +1,4 @@
-<img align='center' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="400" height="400">
+<img align='center' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="1200" height="800">
 <h2> Hey there, I'm Parth Inamdar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Engineer at <a href="https://ory.sh">Ory Corp</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Building open-source identity and access management solutions <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
